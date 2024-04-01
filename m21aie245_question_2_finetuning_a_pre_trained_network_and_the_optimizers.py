@@ -140,8 +140,8 @@ writer.close()
 from torch.utils.tensorboard import SummaryWriter
 
 # Commented out IPython magic to ensure Python compatibility.
-%load_ext tensorboard
+# %load_ext tensorboard
 
 # Commented out IPython magic to ensure Python compatibility.
-%tensorboard --logdir runs
+# %tensorboard --logdir runs
 
